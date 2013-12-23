@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["anichols@trumped.org"]
   spec.description   = %q{Make a remote tmux play well with ssh-agent}
   spec.summary       = %q{Make a remote tmux play well with ssh-agent}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/adnichols/sc_tmux"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
