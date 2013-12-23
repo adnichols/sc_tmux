@@ -26,6 +26,10 @@ Installation is simple:
 
     $ gem install sc_tmux
 
+You will also want to add this alias wherever you store your aliases:
+
+    alias fixssh='eval $(sc -f)'
+    
 ## Usage
 sc is run both with arguments to interact with tmux & your shell as well
 as run as an ssh replacement. 
