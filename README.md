@@ -1,5 +1,7 @@
 # ScTmux
 
+[![Build Status](https://drone.io/github.com/adnichols/sc_tmux/status.png)](https://drone.io/github.com/adnichols/sc_tmux/latest) 
+
 ### Problem
 When I run tmux on a remote host I lose access to my ssh-agent if I
 detach and attach again. Existing windows have old ssh-agent environment
